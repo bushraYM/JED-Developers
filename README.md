@@ -5,3 +5,4 @@
 | Naif Alghamdi | Penetration Testing Specialist | N/A | N/A |
 | Rana Alghamdi | IT | N/A | N/A |
 | Ibraheem Junaid | Backend Developer | N/A | N/A |
+| Sara Khaled Alzahrani | Designer & ethical hacker | N/A | N/A |
